@@ -37,10 +37,19 @@ Alternatively you can use the [offical mirror](https://www.reddit.com/r/Vanced/w
 These mirrors does not include microg as it is downloaded from [Vanced's github](https://github.com/TeamVanced/VancedMicroG/releases/tag/latest/) (downloads still seem to work fine) when using Vanced Manager.
 
 
-
+## Manually installing Vanced (optional)
 You can also just download and install the apks normally without using Vanced Manager. (either from this repo or from official mirror)
 
-  
+(To download individual files from github go to that file and click on "view raw")
+
+To do this you can either use [SAI](https://play.google.com/store/apps/details?id=com.aefyr.sai)(recommended) or adb, First download the apks of your selected version , Arch , Language , 
+and Theme , there should be 3 apks in total. Then open SAI , select the apks you downloaded. Theres only one apk for Youtube Vanced Music so you can install it normally.
+
+If you are using adb, 
+```bash
+adb install-multiple split_config.arm64_v8a.apk split_config.en.apk black.apk
+```
+
 
   
 
