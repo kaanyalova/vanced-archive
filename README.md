@@ -1,3 +1,5 @@
+#Use [revanced](https://github.com/revanced/revanced-manager) instead of this 
+
 # Vanced-Archive
 
 This repo includes all vanced versions and can be used as a mirror on Vanced Manager.
