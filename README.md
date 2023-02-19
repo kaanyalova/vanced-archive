@@ -1,4 +1,4 @@
-#Use [revanced](https://github.com/revanced/revanced-manager) instead of this 
+# Use [revanced](https://github.com/revanced/revanced-manager) instead of this 
 
 # Vanced-Archive
 
